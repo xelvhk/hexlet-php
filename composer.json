@@ -1,0 +1,6 @@
+{
+    "name": "xelvhk/hexlet-php",
+    "description": "example package",
+    "type": "project",
+    "require": {}
+}
