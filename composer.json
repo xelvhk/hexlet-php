@@ -1,6 +1,10 @@
 {
-    "name": "xelvhk/hexlet-php",
-    "description": "example package",
+    "name": "hexlet/code",
+    "description": "Hexlet project",
     "type": "project",
-    "require": {}
+    "license": "proprietary",
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+      ]
 }
